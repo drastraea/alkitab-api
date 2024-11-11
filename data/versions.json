@@ -1,0 +1,214 @@
+[
+    {
+        "code": "tb",
+        "name": "Terjemahan Baru"
+    },
+    {
+        "code": "sb2010",
+        "name": "Alkitab Shellabear (Kontekstual) - 2010"
+    },
+    {
+        "code": "ks2011",
+        "name": "Kitab Suci Revisi Shellabear 2011"
+    },
+    {
+        "code": "ende",
+        "name": "Alkitab Ende - 1970"
+    },
+    {
+        "code": "avb",
+        "name": "Alkitab Versi Borneo"
+    },
+    {
+        "code": "jawa",
+        "name": "Alkitab Bahasa Jawa"
+    },
+    {
+        "code": "sunda",
+        "name": "Alkitab Bahasa Sunda 1991"
+    },
+    {
+        "code": "sunda2",
+        "name": "Alkitab PB Bahasa Sunda Formal 1997"
+    },
+    {
+        "code": "madura",
+        "name": "Alkitab Bahasa Madura"
+    },
+    {
+        "code": "bauzi",
+        "name": "Alkitab Bahasa Bauzi"
+    },
+    {
+        "code": "bali",
+        "name": "Alkitab Bahasa Bali"
+    },
+    {
+        "code": "bugis",
+        "name": "Alkitab Bahasa Bugis"
+    },
+    {
+        "code": "makasar",
+        "name": "Alkitab Bahasa Makasar"
+    },
+    {
+        "code": "toraja",
+        "name": "Alkitab Bahasa Toraja"
+    },
+    {
+        "code": "karo",
+        "name": "Alkitab Bahasa Batak Karo"
+    },
+    {
+        "code": "simalungun",
+        "name": "Alkitab Bahasa Batak Simalungun"
+    },
+    {
+        "code": "toba",
+        "name": "Alkitab Bahasa Batak Toba"
+    },
+    {
+        "code": "mamasa",
+        "name": "Alkitab Bahasa Mamasa"
+    },
+    {
+        "code": "manggarai",
+        "name": "Alkitab Bahasa Manggarai"
+    },
+    {
+        "code": "abun",
+        "name": "Alkitab Bahasa Abun"
+    },
+    {
+        "code": "meyah",
+        "name": "Alkitab Bahasa Meyah"
+    },
+    {
+        "code": "net",
+        "name": "New English Translation"
+    },
+    {
+        "code": "nasb",
+        "name": "New American Standard Bible"
+    },
+    {
+        "code": "hcsb",
+        "name": "Holman Christian Standard Bible"
+    },
+    {
+        "code": "leb",
+        "name": "Lexham English Bible"
+    },
+    {
+        "code": "niv",
+        "name": "New International Version"
+    },
+    {
+        "code": "esv",
+        "name": "English Standard Version"
+    },
+    {
+        "code": "nrsv",
+        "name": "New Revised Standard Version"
+    },
+    {
+        "code": "reb",
+        "name": "Revised English Version"
+    },
+    {
+        "code": "nkjv",
+        "name": "New King James Version"
+    },
+    {
+        "code": "av",
+        "name": "King James Version"
+    },
+    {
+        "code": "amp",
+        "name": "Amplified Bible"
+    },
+    {
+        "code": "nlt",
+        "name": "New Living Translation"
+    },
+    {
+        "code": "gnb",
+        "name": "Good News Bible"
+    },
+    {
+        "code": "erv",
+        "name": "Easy-to-Read Version"
+    },
+    {
+        "code": "evd",
+        "name": "English Version for the Deaf"
+    },
+    {
+        "code": "bbe",
+        "name": "Bible in Basic English"
+    },
+    {
+        "code": "msg",
+        "name": "The Message"
+    },
+    {
+        "code": "phillips",
+        "name": "Phillips NT in Modern English"
+    },
+    {
+        "code": "deib",
+        "name": "Deibler NT"
+    },
+    {
+        "code": "gullah",
+        "name": "Gullah NT Version"
+    },
+    {
+        "code": "cev",
+        "name": "Contemporary English Version"
+    },
+    {
+        "code": "cevuk",
+        "name": "Contemporary English Version UK"
+    },
+    {
+        "code": "gwv",
+        "name": "God's Word to the Nation"
+    },
+    {
+        "code": "hebrew",
+        "name": "HEBREW BIBLE"
+    },
+    {
+        "code": "greek",
+        "name": "GREEK WH BIBLE"
+    },
+    {
+        "code": "greek_str",
+        "name": "GREEK WH STRONG BIBLE"
+    },
+    {
+        "code": "greeksr",
+        "name": "GREEK SR BIBLE"
+    },
+    {
+        "code": "greeksr_str",
+        "name": "GREEK SR STRONG BIBLE"
+    },
+    {
+        "code": "aytst",
+        "name": "AYT Interlinear"
+    },
+    {
+        "code": "avbst",
+        "name": "AVB Interlinear"
+    },
+    {
+        "code": "kjv",
+        "name": "King James Version"
+    },
+    {
+        "code": "nasbst",
+        "name": "New American Standard Bible"
+    }
+]
