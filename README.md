@@ -55,3 +55,27 @@ Requirements
 - Node.js (>= 12.x)
 - Express.js
 - File system access to Bible data files (JSON)
+
+## Installation
+Clone the repository:
+```bash
+git clone https://github.com/your-username/alkitab-api.git
+cd alkitab-api
+```
+
+### Install dependencies:
+
+```bash
+npm install
+Start the server:
+```
+```bash
+npm start
+The server will start on http://localhost:3000.
+```
+
+### Error Handling
+- 404 Not Found: If a resource (e.g., book, chapter, or verse) is not found.
+- 400 Bad Request: If required parameters are missing or invalid.
+### License
+This project is licensed under the MIT License - see the LICENSE file for details.
